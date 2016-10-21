@@ -11,7 +11,7 @@ app.get("/",function(req,res){
         language: lang,
         os: opsys
     });
-})
+});
 app.listen(port,function(){
     console.log('listening on port ' + port);
-})
+});
