@@ -1,0 +1,27 @@
+{
+  "name": "requestheaderparserms",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice. API that returns operating system, IP address, and language.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiloATH/RequestHeaderParserMS.git"
+  },
+  "keywords": [
+    "API",
+    "IP",
+    "operating",
+    "system",
+    "language"
+  ],
+  "author": "Milo Hartsoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiloATH/RequestHeaderParserMS/issues"
+  },
+  "homepage": "https://github.com/MiloATH/RequestHeaderParserMS#readme"
+}
